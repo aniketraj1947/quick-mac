@@ -2,7 +2,7 @@
 
 An interactive app-centric network and system analytics CLI tool for macOS.
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlpNnh3cDViYjU3ajE3bDJ4ZXIxMG0xbWtyaGhxanEwM3lqMTkzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aj3rSenCDZ2Blw26Qd/giphy.gif))
+![me](https://github.com/aniketraj1947/quick-mac/blob/main/src/main/resources/tty.gif)
 
 ## Installation
  
