@@ -13,7 +13,7 @@ brew install quick-mac
 
 ## Commands
 
-### Network
+#### Network
 | Command         | Description                                                                               |
 | :------------ | :-------------- |
 | wifi            | Get connected WiFi data, including signal strength and noise.                              |
@@ -22,7 +22,7 @@ brew install quick-mac
 | speed-test      | Get download/upload speed, latency, and jitter.                                            |
 | dns             | Get nameservers, search domains, and other DNS related information.                         |
 
-### OS & System
+#### OS & System
 
 | Command     | Description                                                                   |
 | :------------ | :-------------- |
@@ -31,4 +31,6 @@ brew install quick-mac
 | battery     | Get live battery-related data, including cycle count and remaining time.      |
 | sys-info    | Get system hardware-related information, including CPU, Memory, and Disk Usage.|
 
+## License
 
+This project is licensed under the MIT License.
